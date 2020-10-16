@@ -2,6 +2,6 @@
 Contoh script sederhana untuk membuat Bot Screening Mandiri di Telegram
 
 #### Contoh Bot
-[@shofiabot]("https://t.me/shofiabot")
+[@shofiabot](https://t.me/shofiabot)
 
 ## Terimakasih
